@@ -22,3 +22,6 @@ Help:
   M          1,000
   Remember that there can't be more than 3 identical symbols in a row.
 */
+
+
+// Solution
