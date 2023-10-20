@@ -36,3 +36,5 @@ while(number>0) {
 }
 return ans;
 }
+
+// or
